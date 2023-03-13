@@ -1,0 +1,30 @@
+[
+    {
+        "nome" : "Abominable Hoodie",
+        "tamanho" : "XS",
+        "cor" : "Green",
+        "quantidade" : "1"
+    },
+
+    {
+        "nome" : "Atlas Fitness Tank",
+        "tamanho" : "XS",
+        "cor" : "Blue",
+        "quantidade" : "2"
+    },
+
+    {
+        "nome" : "Erica Evercool Sports Bra",
+        "tamanho" : "XS",
+        "cor" : "Yellow",
+        "quantidade" : "1"
+    },
+
+    {
+        "nome" : "Ajax Full-Zip Sweatshirt",
+        "tamanho" : "XL",
+        "cor" : "Red",
+        "quantidade" : "3"
+    }
+
+]
